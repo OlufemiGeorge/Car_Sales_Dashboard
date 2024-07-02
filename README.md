@@ -31,6 +31,17 @@ _**Disclaimer:** All datasets and reports are fictitious and are intended only t
 
 •	Power point
 
+Calculations below were created to detailed analysis
+  
+  PYTD AVG PRICE      |  YOY AVG GROWTH
+:--------------------:|:-----------------------:
+![](Calculation1.png) |![](Calculation2.png)
+
+  PYTD CAR SOLD      |  PYTD TOTAL SALES
+:-------------------:|:---------------------:
+![](Calculation3.png)|![](Calculation4.png)
+---
+
 ## Data Sourcing 
 This dataset was generated online and saved as a CSV file. To do insightful analysis, one must be aware of the dataset's structure.
 
