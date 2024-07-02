@@ -31,6 +31,9 @@ _**Disclaimer:** All datasets and reports are fictitious and are intended only t
 
 •	Power point
 
+## Data Sourcing 
+This dataset was generated online and saved as a CSV file. To do insightful analysis, one must be aware of the dataset's structure.
+
 ## Visualization:
 The report comprise of one page
 1.	Car Sales Interactive Dashboard
