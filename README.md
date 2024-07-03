@@ -33,9 +33,9 @@ _**Disclaimer:** All datasets and reports are fictitious and are intended only t
 
 Calculations below were created to detailed analysis
   
-  PYTD AVG PRICE      |  YOY AVG GROWTH
-:--------------------:|:-----------------------:
-![](Calculation1.png) |![](Calculation2.png)
+  PYTD AVG PRICE     |  YOY AVG GROWTH
+:-------------------:|:---------------------:
+![](Calculation1.png)|![](Calculation2.png)
 
   PYTD CAR SOLD      |  PYTD TOTAL SALES
 :-------------------:|:---------------------:
@@ -50,6 +50,18 @@ The report comprise of one page
 1.	Car Sales Interactive Dashboard
 You can interact with the report [here](https://public.tableau.com/views/CARSALESINTERACTIVEDASHBOARD/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 
+![](Dashboard.png)
+
+  PYTD CAR SOLD      |  PYTD TOTAL SALES
+:-------------------:|:---------------------:
+![](YTD_Car_Sold_by_Dealer_Region.png)|![](YTD_Sales_by_Body_Style.png)
+
+  PYTD CAR SOLD      |  PYTD TOTAL SALES
+:-------------------:|:---------------------:
+![](YTD_Total_Sales_by_colour.png)|![](Company_Wise_Sales_Trend.png)
+
+---
+## Findings
 
 
 
